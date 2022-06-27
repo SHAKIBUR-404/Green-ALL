@@ -10,7 +10,7 @@ pkg install python
 
 pip2 install bs4
 
-rm -rf Green-AlL
+rm -rf Green-ALL
 
 
 git clone https://github.com/Shakibur-Cyber-King/Green-ALL.git
