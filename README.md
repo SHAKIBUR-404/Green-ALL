@@ -17,4 +17,4 @@ git clone https://github.com/Shakibur-Cyber-King/Green-ALL.git
 
 cd Green-ALL
 
-d
+python Lover.py
