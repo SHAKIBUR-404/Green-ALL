@@ -13,7 +13,7 @@ pip2 install bs4
 rm -rf Green-ALL
 
 
-git clone https://github.com/Shakibur-Cyber-King/Green-ALL.git
+git clone https://github.com/SHAKIBUR-404/Green-ALL.git
 
 cd Green-ALL
 
